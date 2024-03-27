@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="test_name">Team A</string>
+    <string name="btn1">+1 POINT</string>
+    <string name="btn2">+2 POINTS</string>
+    <string name="btn3">+3 POINTS</string>
+    <string name="btnRESET">RESET</string>
+    <string name="SCORE">0</string>
+</resources>
