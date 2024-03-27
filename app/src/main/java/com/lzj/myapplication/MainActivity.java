@@ -2,14 +2,12 @@ package com.lzj.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.nfc.Tag;
+
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.TextView;
 
-import java.text.DecimalFormat;
 
 public class MainActivity extends AppCompatActivity {
     int ans = 0;
@@ -26,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 //        int ans1 = Integer.parseInt(out1.getText().toString());
         ans += 1;
         out1.setText(String.valueOf(ans));
+        Log.i("main","click1:");
     }
     public void click2(View v){
         setContentView(R.layout.activity_main);
