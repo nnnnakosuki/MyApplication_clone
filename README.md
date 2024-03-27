@@ -1,1 +1,1 @@
-This project is points_calculates
+/This project is points_calculates/
