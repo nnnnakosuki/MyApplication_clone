@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.i("aaaaaaa","onCreate: ");
         setContentView(R.layout.activity_main);
     }
 
@@ -44,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView out = findViewById(R.id.score);
         ans = 0;
-        out.setText(String.valueOf(ans
-        ));
+        out.setText(String.valueOf(ans));
     }
 }

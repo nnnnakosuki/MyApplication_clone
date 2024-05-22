@@ -2,19 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="MainActivity (1)">
+      <entry key="MainPage_ViewPage">
         <State />
       </entry>
-      <entry key="MainActivity (2)">
+      <entry key="MainPage_ViewPage (1)">
         <State />
       </entry>
-      <entry key="MainActivity (3)">
+      <entry key="MyListActivity">
         <State />
       </entry>
-      <entry key="MainActivity (4)">
+      <entry key="MyListActivity2">
         <State />
       </entry>
-      <entry key="MainActivity (5)">
+      <entry key="RateGetActivity">
         <State />
       </entry>
       <entry key="app">

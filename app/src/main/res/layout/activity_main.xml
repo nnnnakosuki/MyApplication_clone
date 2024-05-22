@@ -15,50 +15,50 @@
         android:layout_marginBottom="16dp"
         android:gravity="center"
         android:padding="8dp"
-        android:text="@string/test_name"
+        android:text="@string/test_name1"
         android:textSize="30sp" />
 
     <TextView
         android:id="@+id/score"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:layout_marginBottom="16dp"
         android:layout_marginTop="16dp"
-        android:padding="8dp"
-        android:text="0"
+        android:layout_marginBottom="16dp"
         android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/SCORE"
         android:textSize="75sp" />
+
     <Button
         android:id="@+id/btn_score3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn3"
-        android:onClick="click3"
         android:layout_marginTop="70dp"
-        />
+        android:onClick="click3"
+        android:text="@string/btn3" />
+
     <Button
         android:id="@+id/btn_score2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn2"
-        android:onClick="click2"
         android:layout_marginTop="40dp"
-        />
+        android:onClick="click2"
+        android:text="@string/btn2" />
+
     <Button
         android:id="@+id/btn_score1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn1"
-        android:onClick="click1"
         android:layout_marginTop="40dp"
-        />
+        android:onClick="click1"
+        android:text="@string/btn1" />
+
     <Button
         android:id="@+id/btn_reset"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btnRESET"
-        android:onClick="click4"
         android:layout_marginTop="40dp"
-        />
+        android:onClick="click4"
+        android:text="@string/btnRESET" />
 
 </LinearLayout>
